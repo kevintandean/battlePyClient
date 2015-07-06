@@ -24,4 +24,4 @@ u'{"result": {"games_played": "100", "ImprovedRandomPlayer": {"win": "100"}, "My
 
 ```
 
-batPy.register() takes filepath and name as parameters (note: name shouldn't contain file extension). Running batPy.register() will upload your file and run it against ImprovedRandomPlayer.
+batPy.register() takes filepath and alias as parameters (note: alias shouldn't contain file extension). Running batPy.register() will upload your file and run it against ImprovedRandomPlayer.
