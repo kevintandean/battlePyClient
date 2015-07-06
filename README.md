@@ -2,7 +2,7 @@
 Make sure to have python requests library installed. Use pip.
 
 ```
-$ Pip install requests
+$ pip install requests
 $ git clone 'https://github.com/kevintandean/battlePyClient.git'
 $ cd battlePyClient
 $ touch YourPlayer.py
