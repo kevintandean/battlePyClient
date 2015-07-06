@@ -7,7 +7,7 @@ $ git clone 'https://github.com/kevintandean/battlePyClient.git'
 $ cd battlePyClient
 $ touch YourPlayer.py
 ```
-Inside YourPlayer.py must be a class inheriting from Player and must implement placeShip() and fireShot() methods. Look at RandomPlayer.py for reference.
+Inside YourPlayer.py must be a class inheriting from Player and must implement placeShips() and fireShot() methods. Look at RandomPlayer.py for reference.
 
 Inside battlePyClient directory:
 ```
