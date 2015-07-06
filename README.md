@@ -14,8 +14,8 @@ Inside battlePyClient directory:
 $ python
 >>> import batPy
 
->>> batPy.register('YourPlayer.py', 'MyFirstPlayer')
+>>> batPy.register('path/to/YourPlayer.py', 'MyFirstPlayer')
 >>> batPy.play('SomePlayer', 'MyFirstPlayer')
 ```
 
-Running batPy.register() will upload your file and run it against ImprovedRandomPlayer.
+batPy.register() takes filepath and name as parameters (note: name shouldn't contain file extension). Running batPy.register() will upload your file and run it against ImprovedRandomPlayer.
